@@ -14,6 +14,10 @@ These three policies were grouped into a single **Policy Initiative** named **Ma
 
 Enforcement was validated with four test deployments — three intentionally non-compliant (denied) and one fully compliant (allowed) — confirming that each policy triggers correctly and that the initiative as a whole behaves as expected.
 
+## Video Link
+
+https://youtu.be/l_RYmHdJeM4
+
 ## Explanation of Each Policy
 
 ### 1. Only-CanadaCentral
